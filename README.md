@@ -57,11 +57,3 @@ Welcome to the Airbnb Data Analysis project! This project aims to provide valuab
 - Analyze dynamic plots and charts to gain insights into pricing, availability patterns, and location-based trends.
 - Interact with the Tableau or Power BI dashboard to explore comprehensive visualizations.
 
-## Contributions
-Contributions are welcome! If you find issues or have improvements, please open an issue or submit a pull request.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-This project was developed to provide a comprehensive analysis of Airbnb data, offering valuable insights for stakeholders and users alike.
